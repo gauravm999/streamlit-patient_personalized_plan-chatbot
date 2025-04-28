@@ -63,11 +63,11 @@ if uploaded_csv and uploaded_txts:
 
     # --- Setup FAISS Vector Store ---
     with st.spinner("🔄 Setting up vector store..."):
-        embeddings = OpenAIEmbeddings()
+        embeddings = OpenAIEmbeddings(openai_api_key=os.getenv("OPENAI_API_KEY"))
         vector_store = FAISS.from_texts(all_texts, embeddings)
 
     # --- Setup Conversational Retrieval Chain ---
-    llm = ChatOpenAI(model="gpt-3.5-turbo", temperature=0)
+    llm = ChatOpenAI(model="gpt-3.5-turbo", temperature=0, openai_api_key=os.getenv("OPENAI_API_KEY"))
     memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True)
     rag_chain = ConversationalRetrievalChain.from_llm(
         llm,
