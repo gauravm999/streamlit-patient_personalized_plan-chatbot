@@ -1,0 +1,101 @@
+Patient_ID,Age,Gender,BMI,Blood_Pressure,Cholesterol,Diagnosis,Recommended_Treatment
+P0001,75,Male,27.2,158/87,254,Depression,Lifestyle modification and ACE inhibitors
+P0002,73,Female,27.7,143/62,238,Osteoarthritis,Lifestyle modification and ACE inhibitors
+P0003,50,Female,22.1,137/66,218,Hyperlipidemia,Inhaled corticosteroids
+P0004,48,Other,30.1,137/75,219,Osteoarthritis,Insulin therapy
+P0005,21,Female,37.2,140/95,245,Asthma,Statin therapy
+P0006,55,Male,30.7,108/68,289,Chronic Kidney Disease,Beta-blockers
+P0007,18,Female,39.9,120/78,268,Depression,Inhaled corticosteroids
+P0008,25,Other,37.7,97/97,204,Asthma,Insulin therapy
+P0009,55,Other,30.4,92/79,223,Asthma,Inhaled corticosteroids
+P0010,84,Male,23.1,128/91,257,Hypertension,Lifestyle modification and ACE inhibitors
+P0011,28,Male,27.1,119/78,269,Depression,Insulin therapy
+P0012,71,Male,31.0,107/63,217,Hyperlipidemia,Insulin therapy
+P0013,80,Male,39.6,160/76,186,Asthma,Inhaled corticosteroids
+P0014,23,Male,25.9,96/97,229,Hyperlipidemia,Physical therapy and NSAIDs
+P0015,62,Other,36.4,140/68,233,Asthma,Beta-blockers
+P0016,85,Female,19.5,103/99,296,Chronic Kidney Disease,Cognitive behavioral therapy
+P0017,23,Male,30.2,93/84,291,Hypertension,Insulin therapy
+P0018,24,Female,37.3,119/89,221,Hypertension,Insulin therapy
+P0019,31,Male,25.9,110/91,259,Migraine,Physical therapy and NSAIDs
+P0020,47,Other,28.9,145/93,223,Asthma,Physical therapy and NSAIDs
+P0021,79,Male,26.1,143/68,253,Hypertension,Lifestyle modification and ACE inhibitors
+P0022,82,Male,34.2,93/92,187,Chronic Kidney Disease,Inhaled corticosteroids
+P0023,84,Male,38.1,142/100,194,Chronic Kidney Disease,Physical therapy and NSAIDs
+P0024,67,Other,37.3,111/73,190,Chronic Kidney Disease,Statin therapy
+P0025,82,Other,18.7,105/63,202,Chronic Kidney Disease,Statin therapy
+P0026,32,Female,19.1,128/100,220,Chronic Kidney Disease,Insulin therapy
+P0027,34,Male,19.0,147/69,243,Migraine,Statin therapy
+P0028,35,Male,26.8,116/76,266,Hypertension,Statin therapy
+P0029,74,Female,34.4,142/87,158,Osteoarthritis,Inhaled corticosteroids
+P0030,81,Other,39.1,114/72,270,Osteoarthritis,Cognitive behavioral therapy
+P0031,69,Male,37.0,120/69,206,Depression,Cognitive behavioral therapy
+P0032,22,Male,29.1,153/91,181,Type 2 Diabetes,Insulin therapy
+P0033,64,Female,28.7,140/74,209,Hypertension,Inhaled corticosteroids
+P0034,87,Female,24.2,113/79,150,Migraine,Dialysis consultation
+P0035,71,Female,30.3,141/77,289,Type 2 Diabetes,Insulin therapy
+P0036,36,Female,30.7,118/79,156,Chronic Kidney Disease,Inhaled corticosteroids
+P0037,73,Other,35.0,95/65,245,Asthma,Inhaled corticosteroids
+P0038,79,Male,34.6,116/83,231,Osteoarthritis,Cognitive behavioral therapy
+P0039,55,Female,33.6,152/80,187,Migraine,Insulin therapy
+P0040,21,Other,23.3,139/95,257,Type 2 Diabetes,Dialysis consultation
+P0041,28,Female,25.9,156/90,254,Hypertension,Lifestyle modification and ACE inhibitors
+P0042,59,Female,38.2,151/95,232,Hyperlipidemia,Inhaled corticosteroids
+P0043,70,Female,21.9,99/75,257,Hyperlipidemia,Cognitive behavioral therapy
+P0044,44,Other,33.6,118/97,174,Osteoarthritis,Statin therapy
+P0045,23,Female,26.2,129/62,296,Hypertension,Beta-blockers
+P0046,19,Male,35.3,141/70,254,Asthma,Cognitive behavioral therapy
+P0047,38,Male,21.9,116/71,184,Chronic Kidney Disease,Insulin therapy
+P0048,68,Male,39.0,134/98,266,Asthma,Physical therapy and NSAIDs
+P0049,53,Other,39.2,136/60,294,Asthma,Cognitive behavioral therapy
+P0050,29,Other,31.4,130/82,151,Hypertension,Insulin therapy
+P0051,46,Female,34.2,138/63,214,Depression,Lifestyle modification and ACE inhibitors
+P0052,60,Female,29.1,103/98,221,Hyperlipidemia,Cognitive behavioral therapy
+P0053,39,Female,36.3,130/76,226,Migraine,Dialysis consultation
+P0054,35,Male,35.7,112/72,294,Osteoarthritis,Physical therapy and NSAIDs
+P0055,47,Other,32.6,101/67,282,Hyperlipidemia,Beta-blockers
+P0056,26,Female,21.8,155/73,259,Depression,Cognitive behavioral therapy
+P0057,46,Other,24.5,117/76,159,Chronic Kidney Disease,Beta-blockers
+P0058,52,Female,26.7,135/61,202,Asthma,Beta-blockers
+P0059,66,Female,35.4,156/68,204,Asthma,Cognitive behavioral therapy
+P0060,82,Female,25.7,157/83,287,Hyperlipidemia,Dialysis consultation
+P0061,69,Other,25.8,100/81,278,Hypertension,Lifestyle modification and ACE inhibitors
+P0062,89,Other,27.6,136/65,195,Depression,Dialysis consultation
+P0063,46,Male,30.9,95/72,294,Hyperlipidemia,Dialysis consultation
+P0064,50,Female,36.0,145/69,213,Hypertension,Statin therapy
+P0065,85,Other,27.2,126/75,152,Type 2 Diabetes,Insulin therapy
+P0066,19,Male,20.3,148/77,283,Type 2 Diabetes,Physical therapy and NSAIDs
+P0067,60,Other,39.2,132/77,252,Hyperlipidemia,Beta-blockers
+P0068,23,Male,29.5,142/61,218,Migraine,Statin therapy
+P0069,29,Female,19.0,111/73,190,Hyperlipidemia,Cognitive behavioral therapy
+P0070,38,Female,28.6,91/65,276,Osteoarthritis,Dialysis consultation
+P0071,23,Female,33.5,120/64,220,Osteoarthritis,Cognitive behavioral therapy
+P0072,23,Female,23.9,155/99,183,Asthma,Inhaled corticosteroids
+P0073,31,Male,32.7,141/67,291,Depression,Dialysis consultation
+P0074,36,Male,33.5,118/71,173,Chronic Kidney Disease,Statin therapy
+P0075,25,Female,20.6,154/89,199,Asthma,Inhaled corticosteroids
+P0076,62,Other,31.0,125/77,163,Type 2 Diabetes,Lifestyle modification and ACE inhibitors
+P0077,63,Other,39.3,123/82,166,Osteoarthritis,Cognitive behavioral therapy
+P0078,67,Other,26.3,114/76,270,Depression,Lifestyle modification and ACE inhibitors
+P0079,19,Other,27.8,112/76,211,Depression,Beta-blockers
+P0080,72,Other,32.2,101/92,262,Hypertension,Lifestyle modification and ACE inhibitors
+P0081,59,Female,27.0,156/74,183,Asthma,Physical therapy and NSAIDs
+P0082,77,Female,21.8,155/80,228,Type 2 Diabetes,Inhaled corticosteroids
+P0083,80,Other,25.7,113/69,186,Hyperlipidemia,Beta-blockers
+P0084,45,Other,25.3,129/68,226,Asthma,Lifestyle modification and ACE inhibitors
+P0085,81,Male,28.3,138/83,293,Type 2 Diabetes,Beta-blockers
+P0086,80,Other,28.3,116/64,180,Migraine,Dialysis consultation
+P0087,61,Male,34.3,138/71,223,Chronic Kidney Disease,Physical therapy and NSAIDs
+P0088,58,Female,27.5,126/65,230,Type 2 Diabetes,Beta-blockers
+P0089,73,Female,19.7,148/95,296,Depression,Inhaled corticosteroids
+P0090,35,Other,37.6,138/90,250,Hypertension,Physical therapy and NSAIDs
+P0091,37,Other,29.3,136/98,232,Migraine,Beta-blockers
+P0092,48,Male,23.7,92/82,284,Osteoarthritis,Cognitive behavioral therapy
+P0093,30,Other,38.6,102/73,294,Type 2 Diabetes,Cognitive behavioral therapy
+P0094,41,Male,28.1,146/86,264,Migraine,Beta-blockers
+P0095,33,Other,25.9,141/96,162,Hyperlipidemia,Insulin therapy
+P0096,49,Other,37.8,134/70,155,Chronic Kidney Disease,Dialysis consultation
+P0097,24,Female,40.0,99/82,293,Chronic Kidney Disease,Inhaled corticosteroids
+P0098,61,Male,33.9,146/94,226,Osteoarthritis,Physical therapy and NSAIDs
+P0099,49,Other,35.0,90/79,233,Hypertension,Beta-blockers
+P0100,54,Female,28.3,101/87,283,Type 2 Diabetes,Statin therapy

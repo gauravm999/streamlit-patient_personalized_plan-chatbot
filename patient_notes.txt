@@ -1,0 +1,200 @@
+Patient P0001 is a 75-year-old male presenting with Depression. The BMI is 27.2 and blood pressure reading is 158/87. Cholesterol levels are measured at 254 mg/dL. Recommended plan includes lifestyle modification and ace inhibitors. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0002 is a 73-year-old female presenting with Osteoarthritis. The BMI is 27.7 and blood pressure reading is 143/62. Cholesterol levels are measured at 238 mg/dL. Recommended plan includes lifestyle modification and ace inhibitors. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0003 is a 50-year-old female presenting with Hyperlipidemia. The BMI is 22.1 and blood pressure reading is 137/66. Cholesterol levels are measured at 218 mg/dL. Recommended plan includes inhaled corticosteroids. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0004 is a 48-year-old other presenting with Osteoarthritis. The BMI is 30.1 and blood pressure reading is 137/75. Cholesterol levels are measured at 219 mg/dL. Recommended plan includes insulin therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0005 is a 21-year-old female presenting with Asthma. The BMI is 37.2 and blood pressure reading is 140/95. Cholesterol levels are measured at 245 mg/dL. Recommended plan includes statin therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0006 is a 55-year-old male presenting with Chronic Kidney Disease. The BMI is 30.7 and blood pressure reading is 108/68. Cholesterol levels are measured at 289 mg/dL. Recommended plan includes beta-blockers. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0007 is a 18-year-old female presenting with Depression. The BMI is 39.9 and blood pressure reading is 120/78. Cholesterol levels are measured at 268 mg/dL. Recommended plan includes inhaled corticosteroids. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0008 is a 25-year-old other presenting with Asthma. The BMI is 37.7 and blood pressure reading is 97/97. Cholesterol levels are measured at 204 mg/dL. Recommended plan includes insulin therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0009 is a 55-year-old other presenting with Asthma. The BMI is 30.4 and blood pressure reading is 92/79. Cholesterol levels are measured at 223 mg/dL. Recommended plan includes inhaled corticosteroids. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0010 is a 84-year-old male presenting with Hypertension. The BMI is 23.1 and blood pressure reading is 128/91. Cholesterol levels are measured at 257 mg/dL. Recommended plan includes lifestyle modification and ace inhibitors. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0011 is a 28-year-old male presenting with Depression. The BMI is 27.1 and blood pressure reading is 119/78. Cholesterol levels are measured at 269 mg/dL. Recommended plan includes insulin therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0012 is a 71-year-old male presenting with Hyperlipidemia. The BMI is 31.0 and blood pressure reading is 107/63. Cholesterol levels are measured at 217 mg/dL. Recommended plan includes insulin therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0013 is a 80-year-old male presenting with Asthma. The BMI is 39.6 and blood pressure reading is 160/76. Cholesterol levels are measured at 186 mg/dL. Recommended plan includes inhaled corticosteroids. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0014 is a 23-year-old male presenting with Hyperlipidemia. The BMI is 25.9 and blood pressure reading is 96/97. Cholesterol levels are measured at 229 mg/dL. Recommended plan includes physical therapy and nsaids. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0015 is a 62-year-old other presenting with Asthma. The BMI is 36.4 and blood pressure reading is 140/68. Cholesterol levels are measured at 233 mg/dL. Recommended plan includes beta-blockers. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0016 is a 85-year-old female presenting with Chronic Kidney Disease. The BMI is 19.5 and blood pressure reading is 103/99. Cholesterol levels are measured at 296 mg/dL. Recommended plan includes cognitive behavioral therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0017 is a 23-year-old male presenting with Hypertension. The BMI is 30.2 and blood pressure reading is 93/84. Cholesterol levels are measured at 291 mg/dL. Recommended plan includes insulin therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0018 is a 24-year-old female presenting with Hypertension. The BMI is 37.3 and blood pressure reading is 119/89. Cholesterol levels are measured at 221 mg/dL. Recommended plan includes insulin therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0019 is a 31-year-old male presenting with Migraine. The BMI is 25.9 and blood pressure reading is 110/91. Cholesterol levels are measured at 259 mg/dL. Recommended plan includes physical therapy and nsaids. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0020 is a 47-year-old other presenting with Asthma. The BMI is 28.9 and blood pressure reading is 145/93. Cholesterol levels are measured at 223 mg/dL. Recommended plan includes physical therapy and nsaids. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0021 is a 79-year-old male presenting with Hypertension. The BMI is 26.1 and blood pressure reading is 143/68. Cholesterol levels are measured at 253 mg/dL. Recommended plan includes lifestyle modification and ace inhibitors. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0022 is a 82-year-old male presenting with Chronic Kidney Disease. The BMI is 34.2 and blood pressure reading is 93/92. Cholesterol levels are measured at 187 mg/dL. Recommended plan includes inhaled corticosteroids. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0023 is a 84-year-old male presenting with Chronic Kidney Disease. The BMI is 38.1 and blood pressure reading is 142/100. Cholesterol levels are measured at 194 mg/dL. Recommended plan includes physical therapy and nsaids. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0024 is a 67-year-old other presenting with Chronic Kidney Disease. The BMI is 37.3 and blood pressure reading is 111/73. Cholesterol levels are measured at 190 mg/dL. Recommended plan includes statin therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0025 is a 82-year-old other presenting with Chronic Kidney Disease. The BMI is 18.7 and blood pressure reading is 105/63. Cholesterol levels are measured at 202 mg/dL. Recommended plan includes statin therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0026 is a 32-year-old female presenting with Chronic Kidney Disease. The BMI is 19.1 and blood pressure reading is 128/100. Cholesterol levels are measured at 220 mg/dL. Recommended plan includes insulin therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0027 is a 34-year-old male presenting with Migraine. The BMI is 19.0 and blood pressure reading is 147/69. Cholesterol levels are measured at 243 mg/dL. Recommended plan includes statin therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0028 is a 35-year-old male presenting with Hypertension. The BMI is 26.8 and blood pressure reading is 116/76. Cholesterol levels are measured at 266 mg/dL. Recommended plan includes statin therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0029 is a 74-year-old female presenting with Osteoarthritis. The BMI is 34.4 and blood pressure reading is 142/87. Cholesterol levels are measured at 158 mg/dL. Recommended plan includes inhaled corticosteroids. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0030 is a 81-year-old other presenting with Osteoarthritis. The BMI is 39.1 and blood pressure reading is 114/72. Cholesterol levels are measured at 270 mg/dL. Recommended plan includes cognitive behavioral therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0031 is a 69-year-old male presenting with Depression. The BMI is 37.0 and blood pressure reading is 120/69. Cholesterol levels are measured at 206 mg/dL. Recommended plan includes cognitive behavioral therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0032 is a 22-year-old male presenting with Type 2 Diabetes. The BMI is 29.1 and blood pressure reading is 153/91. Cholesterol levels are measured at 181 mg/dL. Recommended plan includes insulin therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0033 is a 64-year-old female presenting with Hypertension. The BMI is 28.7 and blood pressure reading is 140/74. Cholesterol levels are measured at 209 mg/dL. Recommended plan includes inhaled corticosteroids. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0034 is a 87-year-old female presenting with Migraine. The BMI is 24.2 and blood pressure reading is 113/79. Cholesterol levels are measured at 150 mg/dL. Recommended plan includes dialysis consultation. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0035 is a 71-year-old female presenting with Type 2 Diabetes. The BMI is 30.3 and blood pressure reading is 141/77. Cholesterol levels are measured at 289 mg/dL. Recommended plan includes insulin therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0036 is a 36-year-old female presenting with Chronic Kidney Disease. The BMI is 30.7 and blood pressure reading is 118/79. Cholesterol levels are measured at 156 mg/dL. Recommended plan includes inhaled corticosteroids. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0037 is a 73-year-old other presenting with Asthma. The BMI is 35.0 and blood pressure reading is 95/65. Cholesterol levels are measured at 245 mg/dL. Recommended plan includes inhaled corticosteroids. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0038 is a 79-year-old male presenting with Osteoarthritis. The BMI is 34.6 and blood pressure reading is 116/83. Cholesterol levels are measured at 231 mg/dL. Recommended plan includes cognitive behavioral therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0039 is a 55-year-old female presenting with Migraine. The BMI is 33.6 and blood pressure reading is 152/80. Cholesterol levels are measured at 187 mg/dL. Recommended plan includes insulin therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0040 is a 21-year-old other presenting with Type 2 Diabetes. The BMI is 23.3 and blood pressure reading is 139/95. Cholesterol levels are measured at 257 mg/dL. Recommended plan includes dialysis consultation. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0041 is a 28-year-old female presenting with Hypertension. The BMI is 25.9 and blood pressure reading is 156/90. Cholesterol levels are measured at 254 mg/dL. Recommended plan includes lifestyle modification and ace inhibitors. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0042 is a 59-year-old female presenting with Hyperlipidemia. The BMI is 38.2 and blood pressure reading is 151/95. Cholesterol levels are measured at 232 mg/dL. Recommended plan includes inhaled corticosteroids. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0043 is a 70-year-old female presenting with Hyperlipidemia. The BMI is 21.9 and blood pressure reading is 99/75. Cholesterol levels are measured at 257 mg/dL. Recommended plan includes cognitive behavioral therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0044 is a 44-year-old other presenting with Osteoarthritis. The BMI is 33.6 and blood pressure reading is 118/97. Cholesterol levels are measured at 174 mg/dL. Recommended plan includes statin therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0045 is a 23-year-old female presenting with Hypertension. The BMI is 26.2 and blood pressure reading is 129/62. Cholesterol levels are measured at 296 mg/dL. Recommended plan includes beta-blockers. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0046 is a 19-year-old male presenting with Asthma. The BMI is 35.3 and blood pressure reading is 141/70. Cholesterol levels are measured at 254 mg/dL. Recommended plan includes cognitive behavioral therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0047 is a 38-year-old male presenting with Chronic Kidney Disease. The BMI is 21.9 and blood pressure reading is 116/71. Cholesterol levels are measured at 184 mg/dL. Recommended plan includes insulin therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0048 is a 68-year-old male presenting with Asthma. The BMI is 39.0 and blood pressure reading is 134/98. Cholesterol levels are measured at 266 mg/dL. Recommended plan includes physical therapy and nsaids. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0049 is a 53-year-old other presenting with Asthma. The BMI is 39.2 and blood pressure reading is 136/60. Cholesterol levels are measured at 294 mg/dL. Recommended plan includes cognitive behavioral therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0050 is a 29-year-old other presenting with Hypertension. The BMI is 31.4 and blood pressure reading is 130/82. Cholesterol levels are measured at 151 mg/dL. Recommended plan includes insulin therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0051 is a 46-year-old female presenting with Depression. The BMI is 34.2 and blood pressure reading is 138/63. Cholesterol levels are measured at 214 mg/dL. Recommended plan includes lifestyle modification and ace inhibitors. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0052 is a 60-year-old female presenting with Hyperlipidemia. The BMI is 29.1 and blood pressure reading is 103/98. Cholesterol levels are measured at 221 mg/dL. Recommended plan includes cognitive behavioral therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0053 is a 39-year-old female presenting with Migraine. The BMI is 36.3 and blood pressure reading is 130/76. Cholesterol levels are measured at 226 mg/dL. Recommended plan includes dialysis consultation. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0054 is a 35-year-old male presenting with Osteoarthritis. The BMI is 35.7 and blood pressure reading is 112/72. Cholesterol levels are measured at 294 mg/dL. Recommended plan includes physical therapy and nsaids. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0055 is a 47-year-old other presenting with Hyperlipidemia. The BMI is 32.6 and blood pressure reading is 101/67. Cholesterol levels are measured at 282 mg/dL. Recommended plan includes beta-blockers. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0056 is a 26-year-old female presenting with Depression. The BMI is 21.8 and blood pressure reading is 155/73. Cholesterol levels are measured at 259 mg/dL. Recommended plan includes cognitive behavioral therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0057 is a 46-year-old other presenting with Chronic Kidney Disease. The BMI is 24.5 and blood pressure reading is 117/76. Cholesterol levels are measured at 159 mg/dL. Recommended plan includes beta-blockers. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0058 is a 52-year-old female presenting with Asthma. The BMI is 26.7 and blood pressure reading is 135/61. Cholesterol levels are measured at 202 mg/dL. Recommended plan includes beta-blockers. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0059 is a 66-year-old female presenting with Asthma. The BMI is 35.4 and blood pressure reading is 156/68. Cholesterol levels are measured at 204 mg/dL. Recommended plan includes cognitive behavioral therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0060 is a 82-year-old female presenting with Hyperlipidemia. The BMI is 25.7 and blood pressure reading is 157/83. Cholesterol levels are measured at 287 mg/dL. Recommended plan includes dialysis consultation. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0061 is a 69-year-old other presenting with Hypertension. The BMI is 25.8 and blood pressure reading is 100/81. Cholesterol levels are measured at 278 mg/dL. Recommended plan includes lifestyle modification and ace inhibitors. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0062 is a 89-year-old other presenting with Depression. The BMI is 27.6 and blood pressure reading is 136/65. Cholesterol levels are measured at 195 mg/dL. Recommended plan includes dialysis consultation. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0063 is a 46-year-old male presenting with Hyperlipidemia. The BMI is 30.9 and blood pressure reading is 95/72. Cholesterol levels are measured at 294 mg/dL. Recommended plan includes dialysis consultation. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0064 is a 50-year-old female presenting with Hypertension. The BMI is 36.0 and blood pressure reading is 145/69. Cholesterol levels are measured at 213 mg/dL. Recommended plan includes statin therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0065 is a 85-year-old other presenting with Type 2 Diabetes. The BMI is 27.2 and blood pressure reading is 126/75. Cholesterol levels are measured at 152 mg/dL. Recommended plan includes insulin therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0066 is a 19-year-old male presenting with Type 2 Diabetes. The BMI is 20.3 and blood pressure reading is 148/77. Cholesterol levels are measured at 283 mg/dL. Recommended plan includes physical therapy and nsaids. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0067 is a 60-year-old other presenting with Hyperlipidemia. The BMI is 39.2 and blood pressure reading is 132/77. Cholesterol levels are measured at 252 mg/dL. Recommended plan includes beta-blockers. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0068 is a 23-year-old male presenting with Migraine. The BMI is 29.5 and blood pressure reading is 142/61. Cholesterol levels are measured at 218 mg/dL. Recommended plan includes statin therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0069 is a 29-year-old female presenting with Hyperlipidemia. The BMI is 19.0 and blood pressure reading is 111/73. Cholesterol levels are measured at 190 mg/dL. Recommended plan includes cognitive behavioral therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0070 is a 38-year-old female presenting with Osteoarthritis. The BMI is 28.6 and blood pressure reading is 91/65. Cholesterol levels are measured at 276 mg/dL. Recommended plan includes dialysis consultation. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0071 is a 23-year-old female presenting with Osteoarthritis. The BMI is 33.5 and blood pressure reading is 120/64. Cholesterol levels are measured at 220 mg/dL. Recommended plan includes cognitive behavioral therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0072 is a 23-year-old female presenting with Asthma. The BMI is 23.9 and blood pressure reading is 155/99. Cholesterol levels are measured at 183 mg/dL. Recommended plan includes inhaled corticosteroids. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0073 is a 31-year-old male presenting with Depression. The BMI is 32.7 and blood pressure reading is 141/67. Cholesterol levels are measured at 291 mg/dL. Recommended plan includes dialysis consultation. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0074 is a 36-year-old male presenting with Chronic Kidney Disease. The BMI is 33.5 and blood pressure reading is 118/71. Cholesterol levels are measured at 173 mg/dL. Recommended plan includes statin therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0075 is a 25-year-old female presenting with Asthma. The BMI is 20.6 and blood pressure reading is 154/89. Cholesterol levels are measured at 199 mg/dL. Recommended plan includes inhaled corticosteroids. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0076 is a 62-year-old other presenting with Type 2 Diabetes. The BMI is 31.0 and blood pressure reading is 125/77. Cholesterol levels are measured at 163 mg/dL. Recommended plan includes lifestyle modification and ace inhibitors. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0077 is a 63-year-old other presenting with Osteoarthritis. The BMI is 39.3 and blood pressure reading is 123/82. Cholesterol levels are measured at 166 mg/dL. Recommended plan includes cognitive behavioral therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0078 is a 67-year-old other presenting with Depression. The BMI is 26.3 and blood pressure reading is 114/76. Cholesterol levels are measured at 270 mg/dL. Recommended plan includes lifestyle modification and ace inhibitors. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0079 is a 19-year-old other presenting with Depression. The BMI is 27.8 and blood pressure reading is 112/76. Cholesterol levels are measured at 211 mg/dL. Recommended plan includes beta-blockers. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0080 is a 72-year-old other presenting with Hypertension. The BMI is 32.2 and blood pressure reading is 101/92. Cholesterol levels are measured at 262 mg/dL. Recommended plan includes lifestyle modification and ace inhibitors. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0081 is a 59-year-old female presenting with Asthma. The BMI is 27.0 and blood pressure reading is 156/74. Cholesterol levels are measured at 183 mg/dL. Recommended plan includes physical therapy and nsaids. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0082 is a 77-year-old female presenting with Type 2 Diabetes. The BMI is 21.8 and blood pressure reading is 155/80. Cholesterol levels are measured at 228 mg/dL. Recommended plan includes inhaled corticosteroids. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0083 is a 80-year-old other presenting with Hyperlipidemia. The BMI is 25.7 and blood pressure reading is 113/69. Cholesterol levels are measured at 186 mg/dL. Recommended plan includes beta-blockers. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0084 is a 45-year-old other presenting with Asthma. The BMI is 25.3 and blood pressure reading is 129/68. Cholesterol levels are measured at 226 mg/dL. Recommended plan includes lifestyle modification and ace inhibitors. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0085 is a 81-year-old male presenting with Type 2 Diabetes. The BMI is 28.3 and blood pressure reading is 138/83. Cholesterol levels are measured at 293 mg/dL. Recommended plan includes beta-blockers. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0086 is a 80-year-old other presenting with Migraine. The BMI is 28.3 and blood pressure reading is 116/64. Cholesterol levels are measured at 180 mg/dL. Recommended plan includes dialysis consultation. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0087 is a 61-year-old male presenting with Chronic Kidney Disease. The BMI is 34.3 and blood pressure reading is 138/71. Cholesterol levels are measured at 223 mg/dL. Recommended plan includes physical therapy and nsaids. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0088 is a 58-year-old female presenting with Type 2 Diabetes. The BMI is 27.5 and blood pressure reading is 126/65. Cholesterol levels are measured at 230 mg/dL. Recommended plan includes beta-blockers. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0089 is a 73-year-old female presenting with Depression. The BMI is 19.7 and blood pressure reading is 148/95. Cholesterol levels are measured at 296 mg/dL. Recommended plan includes inhaled corticosteroids. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0090 is a 35-year-old other presenting with Hypertension. The BMI is 37.6 and blood pressure reading is 138/90. Cholesterol levels are measured at 250 mg/dL. Recommended plan includes physical therapy and nsaids. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0091 is a 37-year-old other presenting with Migraine. The BMI is 29.3 and blood pressure reading is 136/98. Cholesterol levels are measured at 232 mg/dL. Recommended plan includes beta-blockers. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0092 is a 48-year-old male presenting with Osteoarthritis. The BMI is 23.7 and blood pressure reading is 92/82. Cholesterol levels are measured at 284 mg/dL. Recommended plan includes cognitive behavioral therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0093 is a 30-year-old other presenting with Type 2 Diabetes. The BMI is 38.6 and blood pressure reading is 102/73. Cholesterol levels are measured at 294 mg/dL. Recommended plan includes cognitive behavioral therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0094 is a 41-year-old male presenting with Migraine. The BMI is 28.1 and blood pressure reading is 146/86. Cholesterol levels are measured at 264 mg/dL. Recommended plan includes beta-blockers. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0095 is a 33-year-old other presenting with Hyperlipidemia. The BMI is 25.9 and blood pressure reading is 141/96. Cholesterol levels are measured at 162 mg/dL. Recommended plan includes insulin therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0096 is a 49-year-old other presenting with Chronic Kidney Disease. The BMI is 37.8 and blood pressure reading is 134/70. Cholesterol levels are measured at 155 mg/dL. Recommended plan includes dialysis consultation. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0097 is a 24-year-old female presenting with Chronic Kidney Disease. The BMI is 40.0 and blood pressure reading is 99/82. Cholesterol levels are measured at 293 mg/dL. Recommended plan includes inhaled corticosteroids. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0098 is a 61-year-old male presenting with Osteoarthritis. The BMI is 33.9 and blood pressure reading is 146/94. Cholesterol levels are measured at 226 mg/dL. Recommended plan includes physical therapy and nsaids. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0099 is a 49-year-old other presenting with Hypertension. The BMI is 35.0 and blood pressure reading is 90/79. Cholesterol levels are measured at 233 mg/dL. Recommended plan includes beta-blockers. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
+Patient P0100 is a 54-year-old female presenting with Type 2 Diabetes. The BMI is 28.3 and blood pressure reading is 101/87. Cholesterol levels are measured at 283 mg/dL. Recommended plan includes statin therapy. Patient is advised to follow up in 3 months or sooner if symptoms worsen.
+
