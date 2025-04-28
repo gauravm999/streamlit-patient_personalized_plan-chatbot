@@ -3,7 +3,6 @@
 # --- Import Libraries ---
 import streamlit as st
 import os
-import glob
 import pandas as pd
 from dotenv import load_dotenv
 from langchain_community.embeddings import OpenAIEmbeddings
@@ -13,8 +12,16 @@ from langchain.chains import ConversationalRetrievalChain
 from langchain.memory import ConversationBufferMemory
 
 # --- Streamlit Page Config ---
-st.set_page_config(page_title="Patient Healthcare Chatbot", page_icon="🩺")
+st.set_page_config(
+    page_title="🏥 Patient Healthcare Chatbot",
+    page_icon="🩺",
+    layout="wide",
+    initial_sidebar_state="expanded"
+)
+
+# --- Top Title and App Description ---
 st.title("🏥 Patient Personalized Healthcare Recommendations Chatbot")
+st.caption("📝 Ask personalized healthcare-related questions based on structured and unstructured patient records. Powered by RAG + OpenAI GPT-3.5.")
 
 # --- Load Environment Variables ---
 load_dotenv()
@@ -24,23 +31,26 @@ if not openai_key:
     st.error("🚨 OpenAI API key not found! Please check your .env file or Streamlit secrets.")
     st.stop()
 
-# --- Sidebar: Upload Files ---
-st.sidebar.header("📁 Upload Data Files")
-uploaded_csv = st.sidebar.file_uploader("Upload patient_records.csv", type="csv")
-uploaded_txts = st.sidebar.file_uploader("Upload patient_notes (.txt)", type="txt", accept_multiple_files=True)
+# --- Sidebar Section ---
+st.sidebar.image("https://cdn-icons-png.flaticon.com/512/2972/2972357.png", width=120)
+st.sidebar.markdown("# 🏥 Healthcare Chatbot")
+st.sidebar.markdown("Helps doctors and healthcare workers personalize treatment plans based on patient data.")
 
-# --- Sidebar: Utility Buttons ---
+st.sidebar.header("🛠️ Utilities")
 if st.sidebar.button("🧹 Clear Chat History"):
     st.session_state.messages = []
-    st.success("Chat history cleared! Start fresh.")
+    st.success("✅ Chat history cleared!")
 
-st.sidebar.markdown("---")
-st.sidebar.subheader("💡 Sample Questions")
+st.sidebar.header("📁 Upload Patient Data")
+uploaded_csv = st.sidebar.file_uploader("Upload **patient_records.csv**", type="csv")
+uploaded_txts = st.sidebar.file_uploader("Upload **patient_notes (.txt)**", type="txt", accept_multiple_files=True)
+
+st.sidebar.header("💡 Sample Questions")
 st.sidebar.info(
-    "- Show me the profile of patient P0012.\n"
+    "- Show me patient P0023's profile.\n"
     "- Suggest lifestyle changes for cardiac patients.\n"
     "- What is the blood pressure of patient P0045?\n"
-    "- Compare treatment plans for diabetes vs hypertension."
+    "- Compare treatment for diabetes vs hypertension."
 )
 
 # --- Main App Logic ---
@@ -70,6 +80,7 @@ if uploaded_csv and uploaded_txts:
     # --- Setup Conversational Retrieval Chain ---
     llm = ChatOpenAI(model="gpt-3.5-turbo", temperature=0, openai_api_key=openai_key)
     memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True)
+
     rag_chain = ConversationalRetrievalChain.from_llm(
         llm,
         retriever=vector_store.as_retriever(search_kwargs={"k": 10}),
@@ -84,27 +95,30 @@ if uploaded_csv and uploaded_txts:
 
     user_input = st.text_input("Type your question:", key="input")
 
-    if st.button("Ask"):
-        if user_input:
-            with st.spinner("🤔 Thinking..."):
-                response = rag_chain({"question": user_input})
-                answer = response['answer']
+    col1, col2 = st.columns([1, 1])
+    with col1:
+        if st.button("Ask"):
+            if user_input:
+                with st.spinner("🤔 Thinking..."):
+                    response = rag_chain({"question": user_input})
+                    answer = response['answer']
 
-                if "I don't have" in answer or "no information" in answer:
-                    st.warning("🔎 No specific matching patient found. Please check Patient ID or rephrase your query.")
-                else:
-                    st.success("✅ Response generated successfully!")
-                    st.markdown(answer)
+                    if "I don't have" in answer or "no information" in answer:
+                        st.warning("🔎 No specific matching patient found. Please check Patient ID or rephrase your query.")
+                    else:
+                        st.success("✅ Response generated successfully!")
+                        st.session_state.messages.append(("You", user_input))
+                        st.session_state.messages.append(("Bot", answer))
 
-                st.session_state.messages.append(("You", user_input))
-                st.session_state.messages.append(("Bot", answer))
+    with col2:
+        if st.button("🆕 Start New Chat"):
+            st.session_state.messages = []
+            st.experimental_rerun()
 
-    # --- Display Chat Messages ---
+    # --- Display Chat Messages with Bubbles ---
     for sender, message in st.session_state.messages:
-        if sender == "You":
-            st.markdown(f"**🧑‍💼 {sender}:** {message}")
-        else:
-            st.markdown(f"**🤖 {sender}:** {message}")
+        with st.chat_message("user" if sender == "You" else "assistant"):
+            st.markdown(message)
 
 else:
     st.warning("📄 Please upload **patient_records.csv** and at least one **patient_notes.txt** file to start.")
